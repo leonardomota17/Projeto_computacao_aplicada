@@ -2,8 +2,8 @@ import requests
 import time
 
 #token robo
-token = "1866900133:AAF2Ozmxpv1xtskGQqNAEz9kjBDQV5oiyEA"
-update_id = "579477509"
+token = "#####" #-<you token
+update_id = "579477509" #-< last update
 
 #################################  APIS   #################################
 
